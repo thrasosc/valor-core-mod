@@ -1,0 +1,73 @@
+{
+    "keys": {
+      "a": "minecraft:oak_log",
+      "b": "minecraft:stripped_oak_log",
+      "c": "minecraft:oak_trapdoor[open=true,half=top,facing=west]",
+      "d": "minecraft:oak_trapdoor[open=true,half=top,facing=south]",
+      "e": "minecraft:oak_trapdoor[open=true,half=top,facing=east]",
+      "f": "minecraft:oak_trapdoor[open=true,half=top,facing=north]",
+      "g": "minecraft:oak_door[half=lower,facing=east]",
+      "h": "minecraft:oak_door[half=upper,facing=east]",
+      "i": "minecraft:glass_pane[north=true]",
+      "r": "minecraft:glass_pane[west=true]",
+      "j": "minecraft:oak_stairs[facing=west]",
+      "k": "minecraft:oak_stairs[facing=south]",
+      "l": "minecraft:oak_stairs[facing=east]",
+      "m": "minecraft:oak_stairs[facing=north]",
+      "n": "minecraft:oak_stairs[facing=north,half=top]",
+      "o": "minecraft:oak_stairs[facing=south,half=top]",
+      "p": "minecraft:oak_slab[type=top]",
+      "q": "minecraft:oak_slab",
+      "s": "minecraft:oak_trapdoor",
+      "t": "minecraft:oak_stairs[facing=west,half=top]",
+      "u": "minecraft:oak_planks"
+    },
+    "layers": [
+      [
+        " f   f ",
+        "cabbbae",
+        " b   b ",
+        " b   g ",
+        " b   b ",
+        "cabbbae",
+        " d   d "
+      ],
+      [
+        "       ",
+        " abrba ",
+        " b   b ",
+        " i   h ",
+        " b   b ",
+        " abrba ",
+        "       "
+      ],
+      [
+        "kpppppk",
+        "nabbban",
+        " b   b ",
+        " b   t ",
+        " b   b ",
+        "oabbbao",
+        "mpppppm"
+      ],
+      [
+        "       ",
+        "sqqqqqs",
+        "quuuuuq",
+        "luuuuuj",
+        "quuuuuq",
+        "sqqqqqs",
+        "       "
+      ],
+      [
+        "       ",
+        "       ",
+        "       ",
+        " sqqqs ",
+        "       ",
+        "       ",
+        "       "
+      ]
+    ]
+}
+  

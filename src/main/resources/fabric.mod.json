@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "valor_core",
+  "version": "${version}",
+  "name": "Valor Core",
+  "description": "Core content and tweaks for the Valor modpack",
+  "authors": [
+    "Thrasos",
+    "Pixel Dream Studios"
+  ],
+  "contact": {},
+  "license": "GPL-3.0",
+  "icon": "assets/valor_core/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "net.pixeldreamstudios.valor_core.client.ValorCoreClient"
+    ],
+    "main": [
+      "net.pixeldreamstudios.valor_core.ValorCore"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}",
+    "lavender": ">=0.1.4+1.20"
+  }
+}

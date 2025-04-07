@@ -1,0 +1,21 @@
+{
+  "bookmarks": {},
+  "opened_books": {
+    "ca8925bf-495c-41a2-9d6c-f6a0f14f7721": [
+      "valor_core:valor_guide"
+    ]
+  },
+  "viewed_entries": {
+    "ca8925bf-495c-41a2-9d6c-f6a0f14f7721": {
+      "valor_core:valor_guide": [
+        "valor_core:game_mechanics/nutrition",
+        "valor_core:game_mechanics/parties",
+        "valor_core:game_mechanics/seasons",
+        "valor_core:game_mechanics/thirst",
+        "valor_core:game_mechanics/temperature",
+        "valor_core:game_mechanics/professions",
+        "valor_core:game_mechanics/skills"
+      ]
+    }
+  }
+}
