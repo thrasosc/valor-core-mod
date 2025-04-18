@@ -12,9 +12,6 @@
   "icon": "assets/valor_core/icon.png",
   "environment": "*",
   "entrypoints": {
-    "client": [
-      "net.pixeldreamstudios.valor_core.client.ValorCoreClient"
-    ],
     "main": [
       "net.pixeldreamstudios.valor_core.ValorCore"
     ]
