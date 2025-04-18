@@ -1,0 +1,21 @@
+{
+  "scorchful_defense_2": {
+    "replace": false,
+    "skills": {
+      "defense": 2
+    },
+    "items": ["scorchful:sun_hat"]
+  },
+  "scorchful_defense_6": {
+    "replace": false,
+    "skills": {
+      "defense": 6
+    },
+    "items": [
+      "minecraft:turtle_helmet",
+      "scorchful:turtle_chestplate",
+      "scorchful:turtle_leggings",
+      "scorchful:turtle_boots"
+    ]
+  }
+}

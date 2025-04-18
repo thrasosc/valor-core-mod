@@ -1,6 +1,7 @@
 package net.pixeldreamstudios.valor_core;
 
 import net.fabricmc.api.ModInitializer;
+import net.pixeldreamstudios.valor_core.registry.CompatRegistry;
 import net.pixeldreamstudios.valor_core.util.ClientSetup;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -14,4 +15,5 @@ public class ValorCore implements ModInitializer {
         LOGGER.info("Initialising Valor Core");
         ClientSetup.createGuideBookButton();
     }
+    CompatRegistry.init();
 }
