@@ -4,21 +4,28 @@
     "skills": {
       "agility": 2
     },
-    "items": ["frostiful:ice_skates"]
+    "items": [
+      "frostiful:ice_skates"
+    ]
   },
   "scorchful_agility_4": {
     "replace": false,
     "skills": {
       "agility": 4
     },
-    "items": ["frostiful:armored_ice_skates"]
+    "items": [
+      "frostiful:armored_ice_skates"
+    ]
   },
-  "scorchful_alchemy_5": {
+  "scorchful_magic_5": {
     "replace": false,
     "skills": {
-      "alchemy": 5
+      "magic": 5
     },
-    "items": ["frostiful:frost_wand", "frostiful:frostology_cloak"]
+    "items": [
+      "frostiful:frost_wand",
+      "frostiful:frostology_cloak"
+    ]
   },
   "scorchful_defense_2": {
     "replace": false,
