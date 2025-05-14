@@ -8,12 +8,4 @@
 
 This category explains the several unique game mechanics found in Valor.
 
-
-
-
-
-
-
-
-
 ![](valor_core:textures/miscellaneous/art_bottom.png)
