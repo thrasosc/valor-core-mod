@@ -13,7 +13,7 @@
 }
 ```
 
-Before you can shape wood to your will, you must embrace the primal path. Begin your journey with flint — sharp, unyielding — the first tool of those who crawl from darkness into dawn.
+Before you can shape wood to your will, you must embrace the primal path. Begin your journey with flint -- sharp, unyielding -- the first tool of those who crawl from darkness into dawn.
 
 ---
 
