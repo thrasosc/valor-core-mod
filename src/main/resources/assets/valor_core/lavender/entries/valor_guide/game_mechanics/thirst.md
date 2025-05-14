@@ -77,6 +77,5 @@ Then, place the %{block.dehydration.copper_cauldron}% above a %{block.minecraft.
 
 ;;;;;
 
-Simply place the %{block.dehydration.bamboo_pump}% on a flat surface, attach an empty bottle or bucket, press <
-keybind;key.use> to turn on and off the pump, then <keybind;key.sneak>-<keybind;key.use> to obtain your purified water
+Simply place the %{block.dehydration.bamboo_pump}% on a flat surface, attach an empty bottle or bucket, press <keybind;key.use> to turn on and off the pump, then <keybind;key.sneak>-<keybind;key.use> to obtain your purified water
 container.
