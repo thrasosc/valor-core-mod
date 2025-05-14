@@ -28,7 +28,7 @@ public class CompatRegistry {
   private static void registerDungeonZTweaks() {
     if (FabricLoader.getInstance().isModLoaded("dungeonz")) {
       ResourceManagerHelper.registerBuiltinResourcePack(
-              ResourceLocation.fromNamespaceAndPath(ValorCore.MOD_ID, "dungeonza_tweaks"),
+              ResourceLocation.fromNamespaceAndPath(ValorCore.MOD_ID, "dungeonz_tweaks"),
               FabricLoader.getInstance().getModContainer(ValorCore.MOD_ID).orElseThrow(),
               ResourcePackActivationType.DEFAULT_ENABLED);
     }
