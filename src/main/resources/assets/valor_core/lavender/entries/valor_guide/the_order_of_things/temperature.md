@@ -2,7 +2,7 @@
 {
   "title": "Temperature",
   "icon": "minecraft:campfire", 
-  "category": "valor_core:game_mechanics",
+  "category": "valor_core:the_order_of_things",
   "associated_items": [
     "environmentz:wanderer_helmet",
     "environmentz:wanderer_chestplate",

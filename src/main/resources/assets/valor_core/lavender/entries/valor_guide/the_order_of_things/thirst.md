@@ -2,7 +2,7 @@
 {
   "title": "Thirst",
   "icon": "minecraft:potion{Potion:purified_water}",
-  "category": "valor_core:game_mechanics",
+  "category": "valor_core:the_order_of_things",
   "associated_items": [
     "dehydration:leather_flask",
     "dehydration:iron_leather_flask",
