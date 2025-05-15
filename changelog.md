@@ -1,7 +1,7 @@
 # Valor Core
 
-## [0.1] - 14/05/2025
+## [0.2] - 15/05/2025
 
-- first alpha release
+- call client setup on client instead of common
 
 [![](https://www.bisecthosting.com/images/CF/PixelDreamStudios/SPEC_PixelDreamStudios_Promo.webp)](https://bisecthosting.com/PixelDream)
