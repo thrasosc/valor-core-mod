@@ -15,7 +15,6 @@ public class ValorCore implements ModInitializer {
   @Override
   public void onInitialize() {
     LOGGER.info("Initialising Valor Core");
-    ClientSetup.createGuideBookButton();
     CreativeModeTabRegistry.init();
     ItemRegistry.init();
     CompatRegistry.init();

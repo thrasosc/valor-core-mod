@@ -14,6 +14,9 @@
   "entrypoints": {
     "main": [
       "net.pixeldreamstudios.valor_core.ValorCore"
+    ],
+    "client": [
+      "net.pixeldreamstudios.valor_core.ValorCoreClient"
     ]
   },
   "depends": {
