@@ -19,6 +19,9 @@
       "net.pixeldreamstudios.valor_core.ValorCoreClient"
     ]
   },
+  "mixins": [
+    "valor_core.mixins.json"
+  ],
   "depends": {
     "fabricloader": ">=${loader_version}",
     "fabric": "*",
