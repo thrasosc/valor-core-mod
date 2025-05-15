@@ -17,8 +17,19 @@ public class CommonLinksMixin {
     @Mutable
     public static URI SNAPSHOT_BUGS_FEEDBACK;
 
+    @Shadow
+    @Final
+    @Mutable
+    public static URI RELEASE_FEEDBACK;
+
+
     @Redirect(method = "<clinit>", at = @At(value = "FIELD", target = "Lnet/minecraft/util/CommonLinks;SNAPSHOT_BUGS_FEEDBACK:Ljava/net/URI;", opcode = Opcodes.PUTSTATIC))
     private static void newSnapshotBugsFeedback(URI uri) {
         SNAPSHOT_BUGS_FEEDBACK = URI.create("https://legacy.curseforge.com/minecraft/modpacks/valor-rpg/issues");
+    }
+
+    @Redirect(method = "<clinit>", at = @At(value = "FIELD", target = "Lnet/minecraft/util/CommonLinks;RELEASE_FEEDBACK:Ljava/net/URI;", opcode = Opcodes.PUTSTATIC))
+    private static void newaReleaseFeedback(URI uri) {
+        RELEASE_FEEDBACK = URI.create("https://discord.pixeldreamstudios.net");
     }
 }
