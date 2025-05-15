@@ -53,4 +53,9 @@ public class ClientSetup {
             }
         });
     }
+
+    public static void init() {
+        ValorCore.LOGGER.info("Initialising client setup");
+        createGuideBookButton();
+    }
 }
