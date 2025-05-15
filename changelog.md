@@ -1,7 +1,8 @@
 # Valor Core
 
-## [0.2] - 15/05/2025
+## [0.3] - 15/05/2025
 
-- call client setup on client instead of common
+- add mixin to change `SNAPSHOT_BUGS_FEEDBACK` and `RELEASE_FEEDBACK` URIs
+- update dependencies
 
 [![](https://www.bisecthosting.com/images/CF/PixelDreamStudios/SPEC_PixelDreamStudios_Promo.webp)](https://bisecthosting.com/PixelDream)
