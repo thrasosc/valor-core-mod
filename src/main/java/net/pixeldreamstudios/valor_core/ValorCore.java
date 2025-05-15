@@ -4,7 +4,6 @@ import net.fabricmc.api.ModInitializer;
 import net.pixeldreamstudios.valor_core.registry.CompatRegistry;
 import net.pixeldreamstudios.valor_core.registry.CreativeModeTabRegistry;
 import net.pixeldreamstudios.valor_core.registry.ItemRegistry;
-import net.pixeldreamstudios.valor_core.util.CommonSetup;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -15,7 +14,7 @@ public class ValorCore implements ModInitializer {
   @Override
   public void onInitialize() {
     LOGGER.info("Initialising Valor Core");
-    CommonSetup.init();
+//    CommonSetup.init();
     CreativeModeTabRegistry.init();
     ItemRegistry.init();
     CompatRegistry.init();
