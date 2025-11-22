@@ -47,6 +47,7 @@ public class CompatRegistry {
     return osName.contains("mac") || osName.contains("darwin");
   }
 
+  // Use this hack until this issue is fixed: https://github.com/Gaming32/mod-loading-screen/issues/34
   private static void disableModLoadingScreen() {
     if (!isMacOS()) {
       return;
